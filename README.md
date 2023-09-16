@@ -10,6 +10,7 @@ I am passionate about creating engaging and intuitive user experiences on the we
 * ✉️  You can contact me at [anthonytwan75official@gmail.com](mailto:anthonytwan75official@gmail.com)
 * 🚀  I'm currently working on [NULL]()
 * 🤝  I'm open to collaborating on Interesting Projects
+* 😜  I'm learning chakra UI
 ### Skills
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
