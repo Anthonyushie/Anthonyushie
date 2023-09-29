@@ -22,3 +22,11 @@ I am passionate about creating engaging and intuitive user experiences on the we
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anthonyushie&theme=synthwave&border_radius=1.3)](https://git.io/streak-stats)
