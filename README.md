@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![my banner](https://media.giphy.com/media/O71ooQY6fv1rfeppS6/giphy.gif)
 
 
