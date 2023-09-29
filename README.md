@@ -1,5 +1,5 @@
 ### Hi there 👋
-![my banner](<iframe src="https://giphy.com/embed/rP8FP4fHZehgSSBSaM" width="480" height="160" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rP8FP4fHZehgSSBSaM">via GIPHY</a></p>)
+![my banner](https://media.giphy.com/media/0cTjBjFnOpuGdCZLPA/giphy.gif)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Anthony
