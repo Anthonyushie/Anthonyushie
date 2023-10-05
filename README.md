@@ -29,6 +29,7 @@ I am passionate about creating engaging and intuitive user experiences on the we
 
 
 ### Badges
+[![An image of @anthonyushie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anthonyushie)](https://holopin.io/@anthonyushie)
 
 <b>My GitHub Stats</b>
 
