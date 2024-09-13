@@ -6,12 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 
-Front-End developer/web3 Enthusiast👨‍💻💻
+Front-End/Operations developer t👨‍💻💻
 -------------------
 
-I am passionate about creating engaging and intuitive user experiences on the web. My expertise in HTML, CSS, and JavaScript, along with popular front end framework like React, allow me to bring websites and applications to life.
+I am passionate about creating engaging and intuitive user experiences on the web. My expertise in HTML, CSS, and JavaScript, typescript along with popular front end framework like React, allow me to bring websites and applications to life.
 * ✉️  You can contact me at [anthonytwan75official@gmail.com](mailto:anthonytwan75official@gmail.com)
-* 🚀  I'm currently working on <a href="https://github.com/Affics-org">Affics</a>
+* 🚀  I'm currently working on <a href="https://github.com/QuaddBox">QuaddFinance</a>
 * 🤝  I'm open to collaborating on Interesting Projects
 * 😜  I'm learning chakra UI
 ### Skills
